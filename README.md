@@ -2,11 +2,13 @@
 
 ### Hi, am Salex!
 
-🧑‍💻software developer sharing about my journey and learnings in techs<br/>
-🧑‍🎓studied [biomedical equipment technology] at iprc kigali, Rwanda<br/>
-😉currently learning about full stack javascript<br/>
 
-👩‍🔧tech stack
+🧑‍💻 As a software developer, I am passionate about sharing my journey and learnings in technology.
+
+🧑‍🎓 I hold a degree in Biomedical Equipment Technology from IPRC Kigali, Rwanda.
+
+😉 I am currently enhancing my skills by learning Full Stack JavaScript
+[![](https://visitcount.itsvg.in/api?id=salex001&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Sal3x_nzii) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/salex001) 
